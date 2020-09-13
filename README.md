@@ -7,4 +7,4 @@
 
 * Jackson : `2.11.1`
 
-* ref : https://examples.javacodegeeks.com/setting-up-ehcache-without-the-xml-hassle/
+* ref : https://www.baeldung.com/jackson-object-mapper-tutorial#3-json-to-jackson-jsonnode
