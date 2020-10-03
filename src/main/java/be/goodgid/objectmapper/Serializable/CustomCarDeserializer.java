@@ -1,4 +1,4 @@
-package be.goodgid.objectmapper.Service;
+package be.goodgid.objectmapper.Serializable;
 
 import java.io.IOException;
 

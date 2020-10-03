@@ -16,6 +16,8 @@ import com.google.common.collect.Lists;
 
 import be.goodgid.objectmapper.Domain.Car;
 import be.goodgid.objectmapper.Domain.WrapperCar;
+import be.goodgid.objectmapper.Serializable.CustomCarDeserializer;
+import be.goodgid.objectmapper.Serializable.CustomCarSerializer;
 
 /**
  * ref : https://www.baeldung.com/jackson-object-mapper-tutorial#3-json-to-jackson-jsonnode
